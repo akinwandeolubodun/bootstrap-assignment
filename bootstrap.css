@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(126, 126, 52);
+}
+
+footer {
+    background-color: burlywood;
+    
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer ul {
+    list-style: none;
+}
+
+.carousel-item {
+    height: 600px;
+    
+  }
+  
+.carousel-item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 300px;
+      object-fit: cover;
+  }
